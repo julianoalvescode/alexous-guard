@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A safe functions for type guard",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest --coverage",
     "build": "tsc --declaration --outDir dist"
