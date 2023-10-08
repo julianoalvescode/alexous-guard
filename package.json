@@ -1,0 +1,19 @@
+{
+  "name": "@alexous/guard",
+  "version": "1.0.0",
+  "description": "A safe functions for type guard",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "tsc --declaration --outDir dist"
+  },
+  "author": "Juliano Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.5",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}
