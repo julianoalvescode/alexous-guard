@@ -8,7 +8,7 @@
 npm i alexous-guard
 ```
 
-## Como usar
+## How use
 
 ```javascript
  import t from  'alexous-guard';
